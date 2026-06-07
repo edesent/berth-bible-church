@@ -16,7 +16,7 @@ const body = Inter({
   display: "swap",
 });
 
-const SITE_URL = "https://perthbible.church";
+const SITE_URL = "https://berth-bible-church.vercel.app";
 const SITE_TITLE = "Perth Bible Church";
 const SITE_DESCRIPTION =
   "Perth Bible Church in Amsterdam, New York exists to love God absolutely and love others sacrificially.";

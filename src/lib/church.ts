@@ -1,4 +1,4 @@
-export const SITE_URL = "https://perthbible.church";
+export const SITE_URL = "https://berth-bible-church.vercel.app";
 
 export const CONTACT = {
   email: "office@perthbiblechurch.org",
